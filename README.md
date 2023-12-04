@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @langochai
-- 👀 I’m interested in earning money
+- 👋 Hi, I’m La Ngoc Hai
+- 👀 I’m interested in earning enough money to not starve
 - 🌱 I’m currently learning C# (ASP.NET CORE)
-- 💞️ I’m looking to better paying job
-- 📫 How to reach me: just don't, i'm too insignificant
+- 💞️ I hate pronouns
+- 📫 How to reach me: just don't, i'm too insignificant for your interest
 
 <!---
 langochai/langochai is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
