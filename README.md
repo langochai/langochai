@@ -83,6 +83,7 @@
 <br>
 
 - **Extras**:
+
     ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
     ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
     ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white)
@@ -97,36 +98,4 @@
 </p>
 
 <br>
-<br>
-
------
-
-<br>
-
-<br>
-<br>
-<br>
-
------
-
-<br>
-<br>
-
-
-<br>
-
-<br>
-<br>
-<br>
-
-<div align='center'>
-
-</div>
-<br>
-<br>
-<br>
-<br>
-
----
-
 <br>
