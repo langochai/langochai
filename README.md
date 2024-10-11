@@ -16,7 +16,7 @@
 
 - A passionate Self-taught Fullstack developer (JS, C# and more)
 - Playing Metal Gear Rising at spare time
-- Currently learning Mobile Development with Xamarin
+- Currently learning Mobile Development with Xamarin Forms
 - I’m currently not open for job opportunity, unless it's remote job 😉.
 
 <br><br>
