@@ -56,7 +56,6 @@
    ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
    ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
   
-  Additional: .NET Core, ASP.NET, ASP.NET CORE
 <br>
 
 <br>   
