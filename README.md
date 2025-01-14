@@ -96,7 +96,7 @@
     ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
     ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
   
-Additional: Winforms, Webforms, WPF, Xamarin Forms, Entity Framework, ADO.NET, LINQ, Devexpress, ML.NET, ESLint, pm2, Typescript, NextJS, Expo, EJS, npm, powershell, bash	
+Additional: ASP.NET, ASP.NET Core, Winforms, Webforms, WPF, Xamarin Forms, Entity Framework, ADO.NET, LINQ, Devexpress, ML.NET, ESLint, pm2, Typescript, NextJS, Expo, EJS, npm, powershell, bash	
 
 </p>
 
