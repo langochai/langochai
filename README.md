@@ -17,7 +17,7 @@
 - A passionate Self-taught Fullstack developer (JS, C# and more).
 - Help people on Stack Overflow daily (yes I don't touch grass very often).
 - Playing Wuthering Waves and Arknights at spare time (hopefully I can work for their company one day).
-- Currently learning Smart warehouse infrastructure and system.
+- Currently learning Java and Android development.
 - I’m currently open for job opportunity, especially remote job 😉.
 
 <br><br>
