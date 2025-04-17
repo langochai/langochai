@@ -1,7 +1,7 @@
 <h1 align="center"><b>Hi , I'm La Ngoc Hai </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <!--  -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Making+the+mother+of+all+JS+framework+here+Jack!;Can't+fret+over+every+%3Cdiv%3E" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=600&lines=Making+the+mother+of+all+JS+libraries+here+Jack!;Can't+fret+over+every+%3Cdiv%3E!" alt="Typing SVG" />
 </p>
 
 
